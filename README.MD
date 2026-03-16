@@ -1,4 +1,4 @@
-Welcome to my personal page and find me more about me with the help of HTML and CSS code I've rewritten myself!
+Welcome to my personal page and find me more about me with the help of HTML and CSS code I've written myself!
 
 ![Welcome to Reks' personal page](images/screenshot.png "Personal Page")
 
